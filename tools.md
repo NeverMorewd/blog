@@ -1,0 +1,37 @@
+- visual studio
+- visual studio blend
+- visual studio code
+- Shazzam Shader Editor
+- handycontrol
+- syncfusion
+- IDA Freeware
+- notion
+- procexp
+- inspect
+- emacs
+- vscode
+- innosetup
+- pandoc
+- shareX
+- sourceTree
+- JustDecompile
+- Fiddler
+- WireShark
+- Cmake
+- rust
+- python
+- dotnet apphost
+- Alacritty
+- BloomRPC
+- draw.io
+- Flutter
+- everything
+- inkscape
+- ILSpy
+- wpfUI
+- MVVM Toolkit  Sample App
+- Xaml Studio
+- windebug
+- windows performance analyzer
+- ubuntu
+- linux sub system on windows
